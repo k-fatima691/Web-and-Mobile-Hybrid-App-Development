@@ -1,0 +1,21 @@
+@media screen and (max-width: 1024px){
+    .header {
+        background-color: royalblue;
+        flex-flow: column;
+    }
+    * {}
+    .favicon {
+        padding-top: 10px;
+        text-align: center;
+    }
+    .pa {
+        text-align: center;
+    }
+    .favicon1 {}
+    .listunorder {
+        list-style-type: none;
+    }
+    .ul {
+        text-align: center;
+    }
+}
